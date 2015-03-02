@@ -7,12 +7,12 @@ composer install
 php index.php
 ```
 
-Of course to run composer or php commands you should install them before.
-
 # Testing
 
-To run tests, execute phpunit in project root directiry.
+To run tests, install vendor dev requirements and execute phpunit in project root directiry.
 
 ```
 phpunit
 ```
+
+Of course to run composer, php or phpunit commands you should install them before.
